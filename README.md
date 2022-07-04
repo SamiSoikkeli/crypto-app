@@ -11,6 +11,8 @@ Additionall trying out the react-chartjs-2
 
 # Live version
 
+https://crypto-app-one-lyart.vercel.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
