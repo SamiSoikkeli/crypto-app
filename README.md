@@ -1,7 +1,7 @@
 # Crypto website concept
 
 Crypto website concept. Purpose was to practice fetching data from public API and displaying the data on several components and pages. 
-Additionall trying out the react-chartjs-2
+Additionall trying out the react-chartjs-2 and practicing three.js
 
 # Known issues to be implemented
 
